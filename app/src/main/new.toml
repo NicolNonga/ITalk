@@ -1,0 +1,5 @@
+toml
+[plugins]
+# ... outros plugins
+google-dagger-hilt-android = { id = "com.google.dagger.hilt.android", version.ref = "hilt" }
+    
