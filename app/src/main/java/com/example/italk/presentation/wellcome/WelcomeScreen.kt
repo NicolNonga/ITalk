@@ -12,7 +12,7 @@ import androidx.compose.ui.tooling.preview.Preview
 
 
 @Composable
-fun WelComeScreen() {
+fun WelcomeScreen() {
     Column(
         modifier = Modifier.fillMaxSize(),
         verticalArrangement = Arrangement.Center,
@@ -30,6 +30,6 @@ fun WelComeScreen() {
 @Preview(showBackground = true)
 @Composable
 fun WelComeScreenPreview() {
-    WelComeScreen()
+    WelcomeScreen()
 }
 
